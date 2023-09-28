@@ -1,1 +1,9 @@
-site_name: My Docs
+site_name: PyData Kraków
+site_url: https://pydatakrk.github.io/pydata-website
+
+nav:
+  - Home: index.md
+  - About: about.md
+
+theme:
+    name: material
